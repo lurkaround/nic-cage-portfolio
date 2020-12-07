@@ -1,0 +1,23 @@
+{
+  "name": "nic-cage-portfolio",
+  "version": "1.0.0",
+  "description": "I recently discovered [PlaceCage](https://www.placecage.com/) and have made way too many Nic Cage themed projects as of late.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lurkaround/nic-cage-portfolio.git"
+  },
+  "keywords": [],
+  "author": "Helon Roop",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lurkaround/nic-cage-portfolio/issues"
+  },
+  "homepage": "https://lurkaround.github.io/nic-cage-portfolio",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
